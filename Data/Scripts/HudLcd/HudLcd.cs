@@ -257,7 +257,7 @@ namespace Jawastew.HudLcd
                     Offset: null,
                     TimeToLive: -1,
                     Scale: thisTextScale,
-                    HideHud: false,
+                    HideHud: true,
                     Shadowing: thisTextFontShadow,
                     ShadowColor: Color.Black,
                     Blend: BlendTypeEnum.PostPP,
